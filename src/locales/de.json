@@ -1,0 +1,9 @@
+{
+  "home": "Zuhause",
+  "formatting": "Formatieren Sie Ihre Texte",
+  "formattingTitle": "So formatieren Sie Ihre Texte",
+  "name": "Wie heißen Sie?",
+  "hello": "Hallo {name}, heute ist ein guter Tag",
+  "htmlText": "<h1>HTML Rocks ❤❤</h1>",
+  "fallbackLocale": "Fallback-Lokalisierung"
+}

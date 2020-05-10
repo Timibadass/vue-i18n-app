@@ -4,5 +4,10 @@
   "greetings": "Welcome to my vue-i18n plugin tutorial app",
   "summary": "In this tutorial, we’re going to learn about Internationalization and how to implement it in our Vue application using the vue-i18n plugin by building a simple app that uses this plugin. The plugin helps you configure your application to work with multiple locales and allows your user to choose between all the available locales without you having to do too much. ",
   "start": "Get started",
-  "formattingTitle": "How to format your texts"
+  "formattingTitle": "How to format your texts",
+  "name": "What is your Name?",
+  "hello": "Hi {name}, today is a good day",
+  "htmlText": "<h1>HTML Rocks ❤❤</h1>",
+  "fallbackLocale": "Fallback Localization",
+  "placeholder": "This is the fallback text"
 }
