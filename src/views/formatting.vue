@@ -13,10 +13,20 @@
     <!-- div element -->
     <div v-html="$t('htmlText')"></div>
     <button @click="switchLocale">Switch to {{locale}}</button>
+    <div>
+      <h1>{{ $t('fallbackLocale') }}</h1>
+      <p>{{ $t('placeholder', 'de') }}</p>
+      <p>{{ $tc('developer', 0) }}</p>
+      <p>{{ $tc('developer', 1) }}</p>
+      <p>{{ $tc('developer', 2) }}</p>
+    </div>
+    <HelloI18n :name="name" />
   </section>
 </template>
 
 <script>
+// @ is an alias to /src
+import HelloI18n from "@/components/HelloI18n.vue";
 export default {
   data() {
     return {
@@ -24,6 +34,9 @@ export default {
       showMessage: false,
       locale: "Deutsch"
     };
+  },
+  components: {
+    HelloI18n
   },
   methods: {
     switchLocale() {

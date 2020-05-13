@@ -9,5 +9,6 @@
   "hello": "Hi {name}, today is a good day",
   "htmlText": "<h1>HTML Rocks ❤❤</h1>",
   "fallbackLocale": "Fallback Localization",
-  "placeholder": "This is the fallback text"
+  "placeholder": "This is the fallback text",
+  "developer": "no developer | one developer | {n} developers"
 }
