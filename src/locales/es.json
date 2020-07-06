@@ -1,0 +1,14 @@
+{
+  "home": "Inicio",
+  "formatting": "formatear sus textos",
+  "greetings": "Bienvenido a mi aplicación tutorial del plugin vue-i18n",
+  "summary": "En este tutorial, vamos a aprender sobre la Internacionalización y cómo implementarla en nuestra aplicación Vue usando el plugin vue-i18n construyendo una aplicación sencilla que utilice este plugin. El plugin le ayuda a configurar su aplicación para que funcione con múltiples locales y permite a su usuario elegir entre todos los locales disponibles sin que usted tenga que hacer demasiado. ",
+  "start": "Empieza.",
+  "formattingTitle": "Cómo dar formato a sus textos",
+  "name": "¿Cómo te llamas?",
+  "hello": "Hola {name}, hoy es un buen día.",
+  "htmlText": "<h1>HTML Rocas ❤❤</h1>",
+  "fallbackLocale": "Localización alternativa",
+  "placeholder": "Este es el texto alternativo",
+  "developer": "no hay desarrollador | un desarrollador | {n} desarrolladores"
+}

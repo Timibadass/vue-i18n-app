@@ -1,0 +1,14 @@
+{
+  "home": "Home",
+  "formatting": "formattazione dei testi",
+  "greetings": "Benvenuti nella mia applicazione tutorial per i plugin vue-i18n",
+  "summary": "In questo tutorial, impareremo a conoscere l'Internazionalizzazione e come implementarla nella nostra applicazione Vue utilizzando il plugin vue-i18n costruendo una semplice applicazione che utilizza questo plugin. Il plugin aiuta a configurare l'applicazione per lavorare con più locali e permette all'utente di scegliere tra tutti i locali disponibili senza dover fare troppo. ",
+  "start": "Iniziare",
+  "formattingTitle": "Come formattare i vostri testi",
+  "name": "Qual è il tuo nome?",
+  "hello": "Ciao {name}, oggi è una buona giornata",
+  "htmlText": "<h1>HTML Rocce ❤❤</h1>",
+  "fallbackLocale": "Localizzazione di ripiego",
+  "placeholder": "Questo è il testo di ripiego",
+  "developer": "nessuno sviluppatore | uno sviluppatore | {n} sviluppatori"
+}

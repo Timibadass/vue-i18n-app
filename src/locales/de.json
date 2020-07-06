@@ -1,9 +1,14 @@
 {
-  "home": "Zuhause",
-  "formatting": "Formatieren Sie Ihre Texte",
-  "formattingTitle": "So formatieren Sie Ihre Texte",
-  "name": "Wie heißen Sie?",
-  "hello": "Hallo {name}, heute ist ein guter Tag",
+  "home": "Startseite",
+  "formatting": "Formatierung Ihrer Texte",
+  "greetings": "Willkommen zu meiner vue-i18n Plugin-Tutorial-App",
+  "summary": "In diesem Tutorial werden wir etwas über Internationalisierung und deren Implementierung in unsere Vue-Anwendung mit dem vue-i18n Plugin lernen, indem wir eine einfache Anwendung erstellen, die dieses Plugin verwendet. Das Plugin hilft Ihnen, Ihre Anwendung so zu konfigurieren, dass sie mit mehreren Gebietsschemata arbeitet, und ermöglicht es Ihrem Benutzer, zwischen allen verfügbaren Gebietsschemata zu wählen, ohne dass Sie zu viel tun müssen. ",
+  "start": "Erste Schritte",
+  "formattingTitle": "Wie Sie Ihre Texte formatieren",
+  "name": "Wie lautet Ihr Name?",
+  "hello": "Hallo {name}, heute ist ein guter Tag.",
   "htmlText": "<h1>HTML Rocks ❤❤</h1>",
-  "fallbackLocale": "Fallback-Lokalisierung"
+  "fallbackLocale": "Fallback-Lokalisierung",
+  "placeholder": "Dies ist der Ausweichtext",
+  "developer": "kein Entwickler | ein Entwickler | {n} Entwickler"
 }
